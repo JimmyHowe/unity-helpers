@@ -1,0 +1,19 @@
+{
+  "name": "com.jimmyhowe.unity.helpers",
+  "version": "0.1.0",
+  "displayName": "JHDC Unity Helpers",
+  "description": "Helping myself to do awesome.",
+  "unity": "2020.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "JHDC"
+  ],
+  "author": {
+    "name": "Jimmy Howe",
+    "email": "director@jimmyhowe.com",
+    "url": "https://jimmyhowe.com"
+  },
+  "type": "library"
+}
